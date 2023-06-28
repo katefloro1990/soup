@@ -1,1 +1,1 @@
-Update H1 in Explorer API docs (#7813)
+Add polygon regions drawing support in object-counting.md and minor docs update (#8885)

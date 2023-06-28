@@ -1,1 +1,1 @@
-fix non-coco val
+Update H1 in Explorer API docs (#7813)

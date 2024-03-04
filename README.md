@@ -1,1 +1,1 @@
-Add estimate_speed(region_color) parameter (#8285)
+Move Explorer tests to scheduled CI (#8305)

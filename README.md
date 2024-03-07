@@ -1,1 +1,1 @@
-Retry once for Docker CI failures (#8164)
+ultralytics 8.1.3 ResNet models and lighter dependencies (#7700)

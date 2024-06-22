@@ -1,1 +1,1 @@
-Fix bbox2segment converter (#7814)
+Add HUB-SDK Docs reference section (#7781)

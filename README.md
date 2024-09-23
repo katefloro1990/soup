@@ -1,1 +1,1 @@
-Update Docs README (#8919)
+Batch inference fixes (#8854)
